@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: const Color(0xFFFFE6E1),
         elevation: 0,
-        toolbarHeight: 70, // biar agak tinggi
+        toolbarHeight: 70, 
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisAlignment: MainAxisAlignment.center,
@@ -193,3 +193,4 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+
